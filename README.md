@@ -5,10 +5,9 @@
   * config.js
   * css.css
 * images ：存放需要的图片文件，如背景图片、缩放图标等
-  * tree-add.png
-  * tree-sub.png
-  * tree-lineEnd.png
-  * tree-background.png
+  * 缩放图标：tree-jia.png、tree-jian.png
+  * 表格边缘：tree-line.png、tree-lineEnd.png
+  * 背景图片：3.jpg
 * js ：存放主函数
   * main.js
 * index.html ：点开即可实现功能
